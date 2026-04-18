@@ -1,0 +1,10 @@
+QUICK START
+
+1. Upload files to your server
+2. Edit config.conf
+3. Run:
+
+chmod +x install.sh
+sudo ./install.sh
+
+Done.
